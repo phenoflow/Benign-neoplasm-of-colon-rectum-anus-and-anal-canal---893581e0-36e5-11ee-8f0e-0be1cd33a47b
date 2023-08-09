@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/benign-neoplasm-of-colon-rectum-anus-and-anal-canal-polypectomy---primary.py
+inputModule3:
+  class: File
+  path: python/benign-neoplasm-of-colon-rectum-anus-and-anal-canal-excision---primary.py
+inputModule4:
+  class: File
+  path: python/benign---primary.py
+inputModule5:
+  class: File
+  path: python/benign-neoplasm-of-colon-rectum-anus-and-anal-canal-flexure---primary.py
+inputModule6:
+  class: File
+  path: python/benign-neoplasm-of-colon-rectum-anus-and-anal-canal---primary.py
+inputModule7:
+  class: File
+  path: python/benign---secondary.py
+inputModule8:
+  class: File
+  path: python/benign-neoplasm-of-colon-rectum-anus-and-anal-canal-polyp---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
